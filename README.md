@@ -1,7 +1,7 @@
 # HimajaRaghavaraju
 # Hi, I'm <HimajaRaghavaraju>! 👋
 
-I am a passionate B.Tech CSE Honours through research  student at KLUNIVERSITY VIJAYAWADA, driven by a curiosity and a love for technology and research . My journey involves delving into the world of  compute science engineering , exploring new ideas, and sharing my insights and research ideas with the community.
+I am a passionate B.Tech CSE Honours through  specilization of robotics and automation  student at KLUNIVERSITY VIJAYAWADA, driven by a curiosity and a love for technology and robots  . My journey involves delving into the world of  robots  , exploring new ideas, and sharing my insights and research ideas with the community.
 
 --------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthachodisetti&label=Profile%20views&color=0e75b6&style=flat" alt="amruthachodisetti" /> </p>
